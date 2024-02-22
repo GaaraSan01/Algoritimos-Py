@@ -21,4 +21,4 @@ def binary_search(array: list, x:int) -> int | bool:
     return False
 
 
-print(binary_search(lista_ordenada, 100))
+print(binary_search(lista_ordenada, 9))

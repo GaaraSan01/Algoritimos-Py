@@ -1,6 +1,6 @@
 # [1, 1, 2, 3, 5...]
 
-def fibonnati(n: int):
+def fibonnati(n: int) -> list:
     sequencia = [0, 1]
 
     # print(sequencia[-2])
